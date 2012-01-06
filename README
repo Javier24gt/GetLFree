@@ -1,1 +1,6 @@
 GetLFree
+
+Se ejecuta mediante:
+
+::
+    $ python getlfree.py
